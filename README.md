@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dennis Maina.
+### Hi there 👋, I'm Dennis Maina Irungu.
 
 👨‍💻 I’m a Data Analyst passionate about transforming complex, unstructured datasets into actionable insights through advanced data analysis, visualization, and statistical modeling. I specialize in uncovering trends, patterns, and narratives hidden within data to drive informed, accurate, and effective decision-making.  
 🎓 Currently expanding my expertise in Data Engineering, focusing on ETL pipelines, data warehousing, SQL optimization, and cloud-based data platforms to build scalable, high-performance data solutions.  
