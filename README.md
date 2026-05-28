@@ -28,6 +28,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+
 ### 📊 GitHub Stats:
 ![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=Maina-Dennis&count_private=true&include_all_commits=true&show_icons=true&theme=shadow_blue&hide_rank=false)
 
